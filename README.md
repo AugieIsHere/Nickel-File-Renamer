@@ -24,8 +24,8 @@ A powerful file renaming tool that uses AI to suggest better names for your file
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/ai-file-renamer.git
-cd ai-file-renamer
+git clone https://github.com/AugieIsHere/Nickel-File-Renamer/.git
+cd Nickel-File-Renamer
 ```
 
 2. Install the required packages:
