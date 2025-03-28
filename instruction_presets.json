@@ -1,0 +1,10 @@
+{
+  "Clear and organized": "Suggest clearer, organized names for these items",
+  "Lowercase with underscores": "Convert all names to lowercase and replace spaces with underscores",
+  "Add date prefix": "Add today's date as a prefix (YYYY-MM-DD) to all names",
+  "Descriptive names": "Create more descriptive names based on likely content",
+  "Standardize format": "Standardize naming across all files following a consistent pattern",
+  "David": "[Show Name] - [Tour/Production Name (ex. Broadway, First National Tour (1NT), etc.)] - [Date (Month-Day-Year = 06-15-2008)] - [Master (the master is the person who recorded the video. people tend to use cryptic names such as \"sunsetblvd.\" if you see a string at the end of the video that seems unrelated, thats probably the master's name)] (Delete/ignore anything related to NFT) (If a master or production is missing, just leave it blank and remove associated dash)",
+  "_last_selected": "David",
+  "_last_selected_model": "deepseek/deepseek-chat-v3-0324:free"
+}
