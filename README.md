@@ -1,6 +1,6 @@
 # Nickel File Renamer
 
-A powerful file renaming tool that uses AI to suggest better names for your files and folders. Built with Python and OpenRouter AI.
+A powerful file renaming tool that uses AI to suggest better names for your files and folders. Built with Python, Cline, and OpenRouter AI.
 
 ## Features
 
